@@ -1,0 +1,16 @@
+[ERROR]: during executing openroad script /openlane/scripts/openroad/gpl.tcl
+[ERROR]: Log: designs/hehe/runs/RUN_2022.10.25_06.32.54/logs/placement/7-global.log
+[ERROR]: Last 10 lines:
+[InitialPlace]  Iter: 1 CG residual: 0.00161413 HPWL: 2514039960
+[InitialPlace]  Iter: 2 CG residual: 0.00003324 HPWL: 2561937694
+[InitialPlace]  Iter: 3 CG residual: 0.00000664 HPWL: 2587710628
+[InitialPlace]  Iter: 4 CG residual: 0.00000658 HPWL: 2597146389
+[InitialPlace]  Iter: 5 CG residual: 0.00000645 HPWL: 2593270100
+[ERROR GPL-0302] Use a higher -density or re-floorplan with a larger core area.
+Given target density: 0.36
+Suggested target density: 0.68
+Error: gpl.tcl, 69 GPL-0302
+child process exited abnormally
+
+[ERROR]: Creating issue reproducible...
+[ERROR]: Flow failed.

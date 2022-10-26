@@ -1,0 +1,26 @@
+
+49. Printing statistics.
+
+=== hehe ===
+
+   Number of wires:             161845
+   Number of wire bits:         212771
+   Number of public wires:        1947
+   Number of public wire bits:   52605
+   Number of memories:               0
+   Number of memory bits:            0
+   Number of processes:              0
+   Number of cells:             207515
+     $_ANDNOT_                    6453
+     $_AND_                       3352
+     $_MUX_                     105302
+     $_NAND_                       338
+     $_NOR_                       1151
+     $_NOT_                      39082
+     $_ORNOT_                      751
+     $_OR_                        3857
+     $_XNOR_                       171
+     $_XOR_                       1106
+     sky130_fd_sc_hd__dfxtp_2    45920
+     sky130_fd_sc_hd__dlxtn_1       32
+
